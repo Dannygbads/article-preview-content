@@ -82,6 +82,7 @@ section {
 }
 
 .profile-details .name {
+  display:block;
   padding-left: 2em;
   font-size: 1rem;
   font-weight: 600;
